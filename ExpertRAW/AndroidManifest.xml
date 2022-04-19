@@ -66,9 +66,6 @@
     <permission android:name="com.samsung.android.app.galaxyraw.permission.READ_IMAGE_VIDEO_INFO" android:protectionLevel="signature"/>
     <permission android:name="com.samsung.android.app.galaxyraw.core2.data.READ" android:protectionLevel="signatureOrSystem"/>
     <permission android:name="com.samsung.android.app.galaxyraw.core2.data.WRITE" android:protectionLevel="signatureOrSystem"/>
-    <queries>
-        <provider android:authorities="com.samsung.provider.gppm"/>
-    </queries>
     <uses-permission android:name="com.samsung.provider.gppm.data.START"/>
     <uses-permission android:name="com.samsung.provider.gppm.data.READ"/>
     <uses-permission android:name="com.samsung.provider.gppm.data.WRITE"/>
