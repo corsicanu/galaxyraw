@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d وجه</item>
+        <item quantity="zero">%d وجه</item>
+        <item quantity="one">وجه واحد</item>
+        <item quantity="two">وجهان</item>
+        <item quantity="few">%d وجوه</item>
+        <item quantity="many">%d وجهاً</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">يتعذر إنشاء أكثر من %d فلتر مخصص.</item>
+        <item quantity="zero">يتعذر إنشاء أكثر من %d فلتر مخصص.</item>
+        <item quantity="one">يتعذر إنشاء أكثر من فلتر واحد مخصص.</item>
+        <item quantity="two">يتعذر إنشاء أكثر من فلترَين مخصصَين.</item>
+        <item quantity="few">يتعذر إنشاء أكثر من %d فلاتر مخصصة.</item>
+        <item quantity="many">يتعذر إنشاء أكثر من %d فلتراً مخصصاً.</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">لتجنب ارتفاع درجة حرارة الجهاز، لا تسجّل أكثر من %1$d دقيقة من %2$s.</item>
+        <item quantity="zero">لتجنب ارتفاع درجة حرارة الجهاز، لا تسجّل أكثر من %1$d دقيقة من %2$s.</item>
+        <item quantity="one">لتجنب ارتفاع درجة حرارة الجهاز، لا تسجّل أكثر من دقيقة واحدة من %2$s.</item>
+        <item quantity="two">لتجنب ارتفاع درجة حرارة الجهاز، لا تسجّل أكثر من دقيقتَين من %2$s.</item>
+        <item quantity="few">لتجنب ارتفاع درجة حرارة الجهاز، لا تسجّل أكثر من %1$d دقائق من %2$s.</item>
+        <item quantity="many">لتجنب ارتفاع درجة حرارة الجهاز، لا تسجّل أكثر من %1$d دقيقة من %2$s.</item>
+    </plurals>
+</resources>

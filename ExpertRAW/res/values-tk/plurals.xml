@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d ýüz</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ýüz</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">%d laýyk filtrden köp döredip bolmaýar.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d laýyk filtrden köp döredip bolmaýar.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Gaty gyzmaz ýaly, %1$d minutdan köp %2$s düşürmäň.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Gaty gyzmaz ýaly, %1$d minutdan köp %2$s düşürmäň.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

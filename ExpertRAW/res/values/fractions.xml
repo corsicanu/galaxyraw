@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="about_page_bottom_margin">4.999995%</fraction>
+    <fraction name="about_page_button_width">75.0%</fraction>
+    <fraction name="about_page_mid_margin">8.599997%</fraction>
+    <fraction name="about_page_top_margin">7.0000052%</fraction>
+    <fraction name="shooting_mode_overlay_floating_camera_button_default_percent_pos_x">68.00001%</fraction>
+    <fraction name="shooting_mode_overlay_floating_camera_button_default_percent_pos_y">44.000008%</fraction>
+</resources>

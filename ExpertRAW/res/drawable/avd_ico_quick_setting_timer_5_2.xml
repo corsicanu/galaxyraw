@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/$avd_ico_quick_setting_timer_5_2__0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <target android:name="s4pg1pg2p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_2__1" />
+    <target android:name="s4pg1pg1p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_2__2" />
+    <target android:name="s3" android:animation="@drawable/$avd_ico_quick_setting_timer_5_2__3" />
+    <target android:name="s2pg2p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_2__5" />
+    <target android:name="s2pg1p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_2__6" />
+    <target android:name="s1pg2p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_2__7" />
+    <target android:name="s1pg1p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_2__8" />
+</animated-vector>

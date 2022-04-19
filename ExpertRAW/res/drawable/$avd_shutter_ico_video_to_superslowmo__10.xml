@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$avd_shutter_ico_video_to_superslowmo__11" android:duration="50" android:startOffset="0" android:propertyName="translateXY" android:pathData="M 106,136C 111,136 101,136 106,136" android:propertyXName="translateX" android:propertyYName="translateY" />
+    <objectAnimator android:interpolator="@drawable/$avd_shutter_ico_video_to_superslowmo__12" android:duration="150" android:startOffset="50" android:propertyName="translateXY" android:pathData="M 106,136C 111,136 131,136 136,136" android:propertyXName="translateX" android:propertyYName="translateY" />
+</set>

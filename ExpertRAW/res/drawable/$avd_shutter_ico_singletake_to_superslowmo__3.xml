@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$avd_shutter_ico_singletake_to_superslowmo__4" android:duration="200" android:startOffset="0" android:valueFrom="M0 -93.66 C51.73,-93.66 93.66,-51.73 93.66,0 C93.66,51.73 51.73,93.66 0,93.66 C-51.73,93.66 -93.66,51.73 -93.66,0 C-93.66,-51.73 -51.73,-93.66 0,-93.66c " android:valueTo="M0 -116 C64.07,-116 116,-64.06 116,0 C116,64.07 64.07,116 0,116 C-64.06,116 -116,64.07 -116,0 C-116,-64.06 -64.06,-116 0,-116c " android:valueType="pathType" android:propertyName="pathData" />
+</set>

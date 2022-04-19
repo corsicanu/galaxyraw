@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d жүз</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d жүз</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">%d ашык жеке чыпка түзө албайсыз.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ашык жеке чыпка түзө албайсыз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Ысып кетүүсүн болтурбоо үчүн, %2$s дегендин %1$d мүнөттөн көптү жаздырбаңыз.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ысып кетүүсүн болтурбоо үчүн, %2$s дегендин %1$d мүнөттөн көптү жаздырбаңыз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

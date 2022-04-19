@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_focus_center_multi__129" android:duration="150" android:startOffset="0" android:propertyName="translateXY" android:pathData="M 80,80C 77.439,82.555 82.561,77.445 80,80" android:propertyXName="translateX" android:propertyYName="translateY" />
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_focus_center_multi__130" android:duration="200" android:startOffset="150" android:propertyName="translateXY" android:pathData="M 80,80C 77.439,82.555 67.19300000000001,92.773 64.632,95.328" android:propertyXName="translateX" android:propertyYName="translateY" />
+</set>

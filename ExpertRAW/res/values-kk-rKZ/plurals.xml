@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d бет</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d бет</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">%d реттемелі сүзгіден артық жасау мүмкін емес.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d реттемелі сүзгіден артық жасау мүмкін емес.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Қатты қызып кетуіне жол бермеу үшін, %1$d минуттан артық %2$s жазбаңыз.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Қатты қызып кетуіне жол бермеу үшін, %1$d минуттан артық %2$s жазбаңыз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together" xmlns:aapt="http://schemas.android.com/aapt"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <set android:ordering="sequentially">
+        <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_timer_off_5__4" android:duration="416" android:valueFrom="0" android:valueTo="0.105" android:propertyName="trimPathStart" />
+        <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_timer_off_5__5" android:duration="33" android:valueFrom="0.105" android:valueTo="0.105" android:propertyName="trimPathStart" />
+    </set>
+    <set android:ordering="sequentially">
+        <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_timer_off_5__6" android:duration="416" android:valueFrom="1" android:valueTo="0.895" android:propertyName="trimPathEnd" />
+        <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_timer_off_5__7" android:duration="33" android:valueFrom="0.895" android:valueTo="0.895" android:propertyName="trimPathEnd" />
+    </set>
+</set>

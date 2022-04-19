@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d twarzy</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d twarz</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d twarze</item>
+        <item quantity="many">%d twarzy</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nowego powiadomienia</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="many">%d nowych powiadomień</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Można utworzyć maksymalnie %d filtrów niestandardowych.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Można utworzyć maksymalnie %d filtr niestandardowy.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Można utworzyć maksymalnie %d filtry niestandardowe.</item>
+        <item quantity="many">Można utworzyć maksymalnie %d filtrów niestandardowych.</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Aby nie dopuścić do przegrzania, nie nagrywaj więcej niż %1$d minut materiału %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aby nie dopuścić do przegrzania, nie nagrywaj więcej niż %1$d minuty materiału %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Aby nie dopuścić do przegrzania, nie nagrywaj więcej niż %1$d minut materiału %2$s.</item>
+        <item quantity="many">Aby nie dopuścić do przegrzania, nie nagrywaj więcej niż %1$d minut materiału %2$s.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d lica</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d lice</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d lica</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нових обавештења</item>
+        <item quantity="one">%d ново обавештење</item>
+        <item quantity="few">%d нова обавештења</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Možete da napravite najviše %d prilagođenih filtera.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Možete da napravite najviše %d prilagođeni filter.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Možete da napravite najviše %d prilagođena filtera.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Da biste izbegli pregrevanje, nemojte snimati duže od %1$d minuta %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Da biste izbegli pregrevanje, nemojte snimati duže od %1$d minuta %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Da biste izbegli pregrevanje, nemojte snimati duže od %1$d minuta %2$s.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

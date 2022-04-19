@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d चेहरे</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d चेहरा</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d नई सूचनाएं</item>
+        <item quantity="one">%d नई सूचनाएं</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">%d से अधिक कस्टम फिल्टर्स नहीं बनाए जा सकते हैं।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d से अधिक कस्टम फिल्टर नहीं बनाया जा सकता है।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">अधिक गर्म होने से रोकने के लिए, %2$s का %1$d मिनट से अधिक रिकॉर्ड न करें।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">अधिक गर्म होने से रोकने के लिए, %2$s का %1$d मिनट से अधिक रिकॉर्ड न करें।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

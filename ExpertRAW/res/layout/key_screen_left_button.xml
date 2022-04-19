@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/left_button_layout" android:tag="layout/key_screen_left_button_0" android:background="@drawable/ic_camera_gallery_button_background" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/quick_view_button_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageButton android:id="@id/quick_view_button" android:tag="binding_1" android:background="@drawable/default_ripple_effect" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:contentDescription="@string/quick_view" />
+    </FrameLayout>
+    <ImageButton android:id="@id/button" android:tag="binding_2" android:background="@drawable/default_ripple_effect" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:soundEffectsEnabled="false" />
+</FrameLayout>

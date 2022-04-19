@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d ansigter</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ansigt</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nye notifikationer</item>
+        <item quantity="one">%d ny notifikation</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Der kan ikke oprettes mere end %d tilpassede filtre.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Der kan ikke oprettes mere end %d tilpasset filter.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">For at undgå overophedning må du ikke optage mere end %1$d minutter af %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">For at undgå overophedning må du ikke optage mere end %1$d minut af %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

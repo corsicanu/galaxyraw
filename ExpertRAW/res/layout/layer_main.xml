@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.app.galaxyraw.layer.LayerManagerView android:id="@id/layer_manager_main" android:tag="layout/layer_main_0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.app.galaxyraw.layer.preview.PreviewAnimationLayerView android:id="@id/preview_layer" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/preview_overlay_layer_stub" android:layout="@layout/layer_preview_overlay" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:id="@id/shooting_mode_layer_background" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/shooting_mode_layer_stub" android:layout="@layout/layer_shooting_mode" android:inflatedId="@id/shooting_mode_layer" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.samsung.android.app.galaxyraw.layer.keyscreen.KeyScreenLayerView android:id="@id/key_screen_layer" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/menu_layer_stub" android:layout="@layout/layer_menu" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/shooting_mode_overlay_layer_stub" android:layout="@layout/layer_shooting_mode_overlay" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:id="@id/popup_layer_background" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/popup_layer_stub" android:layout="@layout/layer_popup" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.samsung.android.app.galaxyraw.layer.LayerManagerView>

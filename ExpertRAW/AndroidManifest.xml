@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="31" android:compileSdkVersionCodename="12" package="com.samsung.android.app.galaxyraw" platformBuildVersionCode="31" platformBuildVersionName="12">
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.USE_BIOMETRIC"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR"/>
+    <uses-permission android:name="android.permission.CAPTURE_AUDIO_HOTWORD"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_ROUTING"/>
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+    <uses-permission android:name="com.samsung.accessibility.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="com.samsung.android.providers.media.READ"/>
+    <uses-permission android:name="com.samsung.android.providers.media.WRITE"/>
+    <uses-permission android:name="com.samsung.android.permission.SEM_MEDIA_CONTENTS"/>
+    <uses-permission android:name="com.samsung.android.permission.SEC_MEDIA_CONTENTS"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE"/>
+    <uses-permission android:name="com.samsung.cmh.data.READ"/>
+    <uses-permission android:name="com.samsung.cmh.data.WRITE"/>
+    <uses-permission android:name="com.samsung.android.app.assistantmenu.permission.ADVERTISE_ASSISTANTMENU"/>
+    <uses-permission android:name="com.samsung.android.bixby.agent.permission.RECEIVE_BIXBY_VIEW_STATE"/>
+    <uses-permission android:name="com.samsung.android.voicewakeup.permission.READ_SETTING_PROVIDER"/>
+    <uses-permission android:name="com.samsung.android.provider.filterprovider.permission.READ_FILTER"/>
+    <uses-permission android:name="com.samsung.android.provider.filterprovider.permission.WRITE_FILTER"/>
+    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"/>
+    <uses-permission android:name="com.samsung.android.permission.SSRM_NOTIFICATION_PERMISSION"/>
+    <uses-permission android:name="com.samsung.permission.SSENSOR"/>
+    <uses-permission android:name="com.samsung.accessory.saproviders.sacameracontrolprovider.CAMERA_CONTROLLER_PROVIDER"/>
+    <uses-permission android:name="com.sec.android.app.voicenote.Controller"/>
+    <uses-permission android:name="com.sec.android.app.apex.permission.ACCESS_APEX_SERVICE"/>
+    <uses-permission android:name="com.sec.android.settings.permission.SOFT_RESET"/>
+    <uses-permission android:name="com.sec.enterprise.knox.MDM_CONTENT_PROVIDER"/>
+    <uses-permission android:name="com.sec.spp.permission.TOKEN_995c646f7bcc2b7a0c9c4b92bbba541bd837d56c2ac3eb8b465f2faf8ca0596b9363a768e0d73340c055b9ad332b4dd1e167912add627fec17e1ed8e354f264dd3e5d773506336ca4f6d4a0deaa296d852b43e629cfd00c329c5ed38d2e1f199bf02f32774b04449b69109ae3a9104569780cfd4c42f1396e515dd49d31a94af"/>
+    <uses-permission android:name="com.sec.android.cover.ledback.LED_BACK_SDK_SERVICE"/>
+    <uses-permission android:name="com.sec.android.diagmonagent.permission.DIAGMON"/>
+    <uses-permission android:name="com.sec.android.diagmonagent.permission.PROVIDER"/>
+    <uses-permission android:name="com.samsung.android.app.tips.permission.USE_INTENT_SERVICE"/>
+    <uses-permission android:name="com.samsung.android.app.galaxyraw.core2.data.READ"/>
+    <uses-permission android:name="com.samsung.android.app.galaxyraw.core2.data.WRITE"/>
+    <uses-permission android:name="com.samsung.android.rubin.app.ui.permission.LAUNCH_RUBIN_SETTING"/>
+    <uses-permission android:name="android.permission.CONFIGURE_WIFI_DISPLAY"/>
+    <uses-permission android:name="android.permission.SET_ANIMATION_SCALE"/>
+    <uses-permission android:name="android.permission.MANAGE_USERS"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <uses-permission android:name="android.permission.UPDATE_APP_OPS_STATS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.STATUS_BAR"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES"/>
+    <uses-permission android:name="android.permission.CONTROL_DISPLAY_BRIGHTNESS"/>
+    <uses-permission android:name="android.permission.INTERNAL_SYSTEM_WINDOW"/>
+    <permission android:name="com.samsung.android.app.galaxyraw.permission.READ_IMAGE_VIDEO_INFO" android:protectionLevel="signature"/>
+    <permission android:name="com.samsung.android.app.galaxyraw.core2.data.READ" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.samsung.android.app.galaxyraw.core2.data.WRITE" android:protectionLevel="signatureOrSystem"/>
+    <queries>
+        <provider android:authorities="com.samsung.provider.gppm"/>
+    </queries>
+    <uses-permission android:name="com.samsung.provider.gppm.data.START"/>
+    <uses-permission android:name="com.samsung.provider.gppm.data.READ"/>
+    <uses-permission android:name="com.samsung.provider.gppm.data.WRITE"/>
+    <supports-screens android:anyDensity="true" android:normalScreens="true"/>
+    <uses-permission android:name="com.sec.face.provider.FaceProvider.data.READ"/>
+    <uses-permission android:name="com.sec.face.provider.FaceProvider.data.WRITE"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-feature android:name="android.hardware.camera"/>
+    <uses-feature android:name="android.hardware.camera.autofocus"/>
+    <uses-permission android:name="com.samsung.android.bixby.service.permission.BIND_TEXT_SERVICE"/>
+    <uses-permission android:name="com.samsung.android.bixby.service.permission.BIND_IMAGE_SERVICE"/>
+    <uses-permission android:name="com.samsung.android.scs.permission.SUPPORTED_FEATURE_PROVIDER"/>
+    <uses-permission android:name="com.samsung.android.scs.ai.suggestion.permission.SUGGESTION_PROVIDER"/>
+    <uses-permission android:name="com.samsung.android.scs.ai.image.permission.BIND_IMAGE_SERVICE"/>
+    <uses-permission android:name="com.samsung.android.scs.ai.image.permission.IMAGE_PROVIDER"/>
+    <uses-permission android:name="com.samsung.android.scs.ai.text.permission.TEXT_PROVIDER"/>
+    <uses-permission android:name="com.samsung.android.scs.ai.asr.permission.BIND_SPEECH_RECOGNITION_SERVICE"/>
+    <uses-permission android:name="com.samsung.android.scs.ai.texttospeech.permission.BIND_TEXT_TO_SPEECH"/>
+    <application android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:extractNativeLibs="false" android:icon="@mipmap/icon_galaxy_raw" android:label="@string/expert_raw_label" android:largeHeap="true" android:name="com.samsung.android.app.galaxyraw.CameraApplication" android:resizeableActivity="false" android:supportsRtl="true" android:usesCleartextTraffic="true">
+        <meta-data android:name="com.sec.android.sdk.cover.MODE" android:value="0"/>
+        <meta-data android:name="com.samsung.android.icon_container.has_icon_container" android:value="true"/>
+        <meta-data android:name="com.samsung.android.bixby.pathRuleAppName" android:value="Camera"/>
+        <meta-data android:name="com.samsung.android.bixby.capsuleId" android:value="viv.cameraApp"/>
+        <meta-data android:name="com.samsung.android.sdk.bixby2.companionApp" android:value="true"/>
+        <meta-data android:name="SamsungBasicInteraction" android:value="SEP10"/>
+        <activity android:clearTaskOnLaunch="true" android:configChanges="density|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:icon="@mipmap/icon_galaxy_raw" android:label="@string/expert_raw_label" android:launchMode="standard" android:name="com.samsung.android.app.galaxyraw.GalaxyRaw" android:screenOrientation="sensor" android:taskAffinity="android.task.camera" android:theme="@style/AppCompat.ListTheme.FullScreen.Black" android:visibleToInstantApps="true" android:windowSoftInputMode="adjustNothing">
+            <meta-data android:name="assistant" android:resource="@xml/assistant"/>
+            <meta-data android:name="com.samsung.android.rotation.animation.disable" android:value="true"/>
+            <intent-filter android:label="@string/expert_raw_label">
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.samsung.android.support.REMOTE_ACTION"/>
+            </intent-filter>
+            <meta-data android:name="com.samsung.android.support.REMOTE_ACTION" android:resource="@xml/ble_spen_action"/>
+            <meta-data android:name="com.samsung.android.activity.showWhenLocked" android:value="false"/>
+        </activity>
+        <activity android:configChanges="keyboardHidden|screenSize|uiMode" android:excludeFromRecents="true" android:exported="false" android:label="" android:name="com.samsung.android.app.galaxyraw.DummyActivity" android:theme="@style/CustomTheme"/>
+        <activity android:configChanges="keyboardHidden|screenSize|uiMode" android:excludeFromRecents="true" android:exported="true" android:label="" android:name="com.samsung.android.app.galaxyraw.SettingReceiverActivity" android:theme="@style/AppCompat.ListTheme">
+            <intent-filter>
+                <action android:name="com.sec.android.intent.action.SEC_APPLICATION_SETTINGS"/>
+                <category android:name="com.sec.android.intent.category.SEC_APPLICATION_SETTINGS"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|mcc|mnc|orientation|screenSize" android:exported="false" android:finishOnTaskLaunch="true" android:label="@string/settings_btn" android:name="com.samsung.android.app.galaxyraw.setting.CameraSettingActivity" android:parentActivityName="com.samsung.android.app.galaxyraw.GalaxyRaw" android:screenOrientation="user" android:theme="@style/AppCompat.ListTheme">
+            <meta-data android:name="com.samsung.android.activity.showWhenLocked" android:value="false"/>
+        </activity>
+        <activity android:configChanges="keyboardHidden|mcc|mnc|orientation|screenSize" android:exported="false" android:finishOnTaskLaunch="true" android:name="com.samsung.android.app.galaxyraw.setting.SubCameraSettingActivity" android:parentActivityName="com.samsung.android.app.galaxyraw.setting.CameraSettingActivity" android:screenOrientation="user" android:theme="@style/AppCompat.ListTheme">
+            <meta-data android:name="com.samsung.android.activity.showWhenLocked" android:value="false"/>
+        </activity>
+        <activity android:configChanges="keyboardHidden|mcc|mnc|orientation|screenSize" android:exported="false" android:finishOnTaskLaunch="true" android:label="" android:name="com.samsung.android.app.galaxyraw.RequestPermissionActivity" android:screenOrientation="user" android:theme="@style/AppCompat.ListTheme"/>
+        <activity android:configChanges="keyboardHidden|mcc|mnc|orientation|screenSize" android:exported="false" android:finishOnTaskLaunch="true" android:label="" android:name="com.samsung.android.app.galaxyraw.RequestUpdateActivity" android:screenOrientation="user" android:theme="@style/AppCompat.ListTheme"/>
+        <activity android:configChanges="keyboardHidden|mcc|mnc|orientation|screenSize" android:exported="false" android:finishOnTaskLaunch="true" android:label="" android:name="com.samsung.android.app.galaxyraw.setting.aboutpage.AboutCameraActivity" android:screenOrientation="user" android:theme="@style/AppCompat.AboutListTheme"/>
+        <activity android:configChanges="keyboardHidden|mcc|mnc|orientation|screenSize" android:exported="false" android:finishOnTaskLaunch="true" android:label="" android:name="com.samsung.android.app.galaxyraw.setting.aboutpage.PermissionsActivity" android:theme="@style/AppCompat.AboutListTheme"/>
+        <activity android:exported="true" android:name="com.samsung.android.app.galaxyraw.AppPermissionDialogActivity" android:theme="@style/AppPermissionStyle">
+            <intent-filter>
+                <action android:name="com.sec.android.app.secsetupwizard.APP_PERMISSIONS_FOR_CHINA"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|mcc|mnc|orientation|screenSize" android:exported="false" android:finishOnTaskLaunch="true" android:label="" android:name="com.samsung.android.app.galaxyraw.setting.aboutpage.OpenSourceLicenseActivity" android:screenOrientation="user" android:theme="@style/AppCompat.ListTheme"/>
+        <activity android:configChanges="keyboardHidden|mcc|mnc|orientation|screenSize" android:exported="false" android:finishOnTaskLaunch="true" android:label="" android:name="com.samsung.android.app.galaxyraw.setting.aboutpage.TermsOfServicesActivity" android:screenOrientation="user" android:theme="@style/AppCompat.ListTheme"/>
+        <service android:exported="false" android:name="com.samsung.android.app.galaxyraw.core2.processor.PostProcessService"/>
+        <service android:exported="false" android:name="com.samsung.android.app.galaxyraw.service.NotificationService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.samsung.android.app.galaxyraw.service.SamsungAccountCallbackService"/>
+        <uses-library android:name="semextendedformat"/>
+        <uses-library android:name="secimaging"/>
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <uses-native-library android:name="libexifa.camera.samsung.so"/>
+        <uses-native-library android:name="libjpega.camera.samsung.so"/>
+        <meta-data android:name="com.samsung.android.disableSnapshot" android:value="true"/>
+        <provider android:authorities="com.samsung.android.app.galaxyraw.FileProvider" android:exported="false" android:grantUriPermissions="true" android:name="androidx.core.content.FileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_file_paths"/>
+        </provider>
+        <provider android:authorities="com.samsung.android.app.galaxyraw" android:exported="true" android:name="com.sec.android.diagmonagent.log.provider.DiagMonProvider" android:permission="com.sec.android.diagmonagent.permission.PROVIDER"/>
+        <provider android:authorities="com.samsung.android.app.galaxyraw.core2" android:exported="true" android:name="com.samsung.android.app.galaxyraw.core2.database.Core2Provider" android:readPermission="com.samsung.android.app.galaxyraw.core2.data.READ" android:writePermission="com.samsung.android.app.galaxyraw.core2.data.WRITE"/>
+        <uses-native-library android:name="libAIQSolution_MPI.camera.samsung.so" android:required="false"/>
+        <uses-native-library android:name="libMultiFrameProcessing40.camera.samsung.so" android:required="false"/>
+        <uses-native-library android:name="libMultiFrameProcessing40.snapwrapper.camera.samsung.so" android:required="false"/>
+        <uses-native-library android:name="libMultiFrameProcessing40Tuning.camera.samsung.so" android:required="false"/>
+        <uses-native-library android:name="libomp.so" android:required="false"/>
+        <uses-native-library android:name="libcore2nativeutil.camera.samsung.so" android:required="false"/>
+        <uses-native-library android:name="libexifa.camera.samsung.so" android:required="false"/>
+        <uses-native-library android:name="libjpega.camera.samsung.so" android:required="false"/>
+        <uses-native-library android:name="libimagecodec.quram.so" android:required="false"/>
+        <uses-native-library android:name="libsnap_hidl.snap.samsung.so" android:required="false"/>
+        <uses-native-library android:name="libjpegsq.media.samsung.so" android:required="false"/>
+        <uses-native-library android:name="libSwIsp_wrapper_v1.camera.samsung.so" android:required="false"/>
+        <uses-native-library android:name="libLocalTM_pcc.camera.samsung.so" android:required="false"/>
+        <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <provider android:authorities="com.samsung.android.app.galaxyraw.CapsuleProvider" android:exported="true" android:name="com.samsung.android.sdk.bixby2.provider.CapsuleProvider"/>
+        <meta-data android:name="com.samsung.android.bixby.service.sdk.version" android:value="1.0.00.0"/>
+        <meta-data android:name="com.samsung.android.bixby.service.sdk.version_code" android:value="100000000"/>
+        <service android:name="com.sec.android.diagmonagent.log.ged.scheduler.GEDJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <meta-data android:name="com.google.ar.core.min_apk_version" android:value="191106000"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:exported="false" android:launchMode="singleTop" android:name="com.google.ar.core.InstallActivity" android:theme="@android:style/Theme.Material.Light.Dialog.Alert"/>
+        <meta-data android:name="SPDE.build.signature" android:value="abe1a0ced68c9b658f0946c5b822dc620e44d49a/95359133/hal3-release/GalaxyRawCamera-101000-1.0.01"/>
+        <meta-data android:name="SPDE.env.version" android:value="4.2.1/L31.1.15/0.9.31"/>
+    </application>
+</manifest>

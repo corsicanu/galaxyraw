@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d нүүр</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d нүүр</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">%d-с их тусгай шүүлтүүр үүсгэх боломжгүй.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d-с их тусгай шүүлтүүр үүсгэх боломжгүй.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Хэт халалтаас сэргийлэхийн тулд %2$s-г %1$d минутаас илүү бүү бич.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Хэт халалтаас сэргийлэхийн тулд %2$s-г %1$d минутаас илүү бүү бич.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

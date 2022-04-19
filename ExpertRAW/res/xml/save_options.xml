@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="pictures"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_Heif" android:key="@string/key_heif" android:summary="@string/heif_format_summary" />
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_Raw_File" android:key="@string/key_picture_format" android:summary="@string/picture_format_summary" />
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_Ultra_Wide_Picture" android:key="@string/key_dual_capture_in_live_focus" android:summary="@string/ultra_wide_picture_summary" />
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_Ultra_wide_lens_correction" android:key="@string/key_wide_lens_correction" android:summary="@string/ultra_wide_lens_correction_summary" />
+</PreferenceScreen>

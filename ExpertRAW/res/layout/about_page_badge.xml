@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="12.0sp" android:textColor="@color/about_page_badge_text_color" android:gravity="center" android:id="@id/about_badge_text" android:background="@drawable/badge_counter_bubble" android:layout_width="wrap_content" android:layout_height="18.0dip" android:text="@string/new_badge_text" android:includeFontPadding="false" style="@style/RobotoBold" />
+</LinearLayout>

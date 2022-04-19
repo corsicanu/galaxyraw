@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d يۈز</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">‏%d يۈز</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">%d دىن كۆپ ئۆزلەشتۈرمە سۈزگۈچ قۇرۇلمايدۇ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d دىن كۆپ ئۆزلەشتۈرمە سۈزگۈچ قۇرۇلمايدۇ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">قىزىپ كېتىشتىن ساقلىنىش ئۈچۈن %1$d مىنۇتتىن ئۇزۇن %2$s خاتىرىلىمەڭ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">قىزىپ كېتىشتىن ساقلىنىش ئۈچۈن %1$d مىنۇتتىن ئۇزۇن %2$s خاتىرىلىمەڭ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

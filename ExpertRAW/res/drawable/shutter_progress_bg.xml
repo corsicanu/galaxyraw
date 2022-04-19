@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <size android:height="@dimen/progress_wheel_shutter_size" android:width="@dimen/progress_wheel_shutter_size" />
+            <padding android:left="@dimen/pro_audio_item_top_margin" android:top="@dimen/pro_audio_item_top_margin" android:right="@dimen/pro_audio_item_top_margin" android:bottom="@dimen/pro_audio_item_top_margin" />
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <size android:height="@dimen/base_menu_right_button_size" android:width="@dimen/base_menu_right_button_size" />
+            <solid android:color="#ffc6c6c6" />
+        </shape>
+    </item>
+</layer-list>

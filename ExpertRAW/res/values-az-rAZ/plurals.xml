@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d üz</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d üz</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">%d-dən çox fərdi filtr yaratmaq olmur.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d-dən çox fərdi filtr yaratmaq olmur.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Həddən artıq qızmanın qarşısını almaq üçün %1$d dəqiqədən artıq %2$s yazmayın.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Həddən artıq qızmanın qarşısını almaq üçün %1$d dəqiqədən artıq %2$s yazmayın.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

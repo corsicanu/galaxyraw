@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="end" android:id="@id/quick_setting_badge" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_dot_case" android:scaleType="centerCrop" android:contentDescription="@null" />
+    <ImageButton android:id="@id/quick_setting_button" android:background="@drawable/default_ripple_effect" android:layout_width="@dimen/quick_setting_item_size" android:layout_height="@dimen/quick_setting_item_size" android:scaleType="centerCrop" android:contentDescription="@null" />
+</FrameLayout>

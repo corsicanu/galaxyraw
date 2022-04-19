@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d aghaidh</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aghaidh</item>
+        <item quantity="two">%d aghaidh</item>
+        <item quantity="few">%d aghaidh</item>
+        <item quantity="many">%d n-aghaidh</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Ní féidir níos mó ná %d scagaire saincheaptha a chruthú.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ní féidir níos mó ná %d scagaire saincheaptha a chruthú.</item>
+        <item quantity="two">Ní féidir níos mó ná %d scagaire shaincheaptha a chruthú.</item>
+        <item quantity="few">Ní féidir níos mó ná %d scagaire shaincheaptha a chruthú.</item>
+        <item quantity="many">Ní féidir níos mó ná %d scagaire shaincheaptha a chruthú.</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">"D'fhonn róthéamh a sheachaint, ná taifead níos mó ná %1$d nóiméad de %2$s."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"D'fhonn róthéamh a sheachaint, ná taifead níos mó ná %1$d nóiméad de %2$s."</item>
+        <item quantity="two">"D'fhonn róthéamh a sheachaint, ná taifead níos mó ná %1$d nóiméad de %2$s."</item>
+        <item quantity="few">"D'fhonn róthéamh a sheachaint, ná taifead níos mó ná %1$d nóiméad de %2$s."</item>
+        <item quantity="many">"D'fhonn róthéamh a sheachaint, ná taifead níos mó ná %1$d nóiméad de %2$s."</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_focus_multi_center__55" android:duration="133" android:startOffset="0" android:valueFrom="M10.3 -10.29 C10.3,-10.29 20.38,-10.29 20.38,-10.29 C20.38,-10.29 20.38,-20.37 20.38,-20.37 C20.38,-20.37 10.3,-20.37 10.3,-20.37 C10.3,-20.37 10.3,-10.29 10.3,-10.29c " android:valueTo="M10.3 -10.29 C10.3,-10.29 20.38,-10.29 20.38,-10.29 C20.38,-10.29 20.38,-20.37 20.38,-20.37 C20.38,-20.37 10.3,-20.37 10.3,-20.37 C10.3,-20.37 10.3,-10.29 10.3,-10.29c " android:valueType="pathType" android:propertyName="pathData" />
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_focus_multi_center__56" android:duration="217" android:startOffset="133" android:valueFrom="M10.3 -10.29 C10.3,-10.29 20.38,-10.29 20.38,-10.29 C20.38,-10.29 20.38,-20.37 20.38,-20.37 C20.38,-20.37 10.3,-20.37 10.3,-20.37 C10.3,-20.37 10.3,-10.29 10.3,-10.29c " android:valueTo="M2.38 -2.37 C2.38,-2.37 28.29,-2.37 28.29,-2.37 C28.29,-2.37 28.32,-28.28 28.32,-28.28 C28.32,-28.28 2.4,-28.28 2.4,-28.28 C2.4,-28.28 2.38,-2.37 2.38,-2.37c " android:valueType="pathType" android:propertyName="pathData" />
+</set>

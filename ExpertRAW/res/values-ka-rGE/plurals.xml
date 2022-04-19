@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d სახე</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d სახე</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">%d-ზე მეტი პერსონალური ფილტრის შექმნა შეუძლებელია.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d-ზე მეტი პერსონალური ფილტრის შექმნა შეუძლებელია.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">გადახურების ასაცილებლად, არ ჩაწეროთ %1$d წუთზე მეტი %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">გადახურების ასაცილებლად, არ ჩაწეროთ %1$d წუთზე მეტი %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

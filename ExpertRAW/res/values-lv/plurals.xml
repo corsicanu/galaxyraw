@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d sejas</item>
+        <item quantity="zero">%d sejas</item>
+        <item quantity="one">%d seja</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d jauni paziņojumi</item>
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Var izveidot ne vairāk kā %d pielāgotos filtrus.</item>
+        <item quantity="zero">Var izveidot ne vairāk kā %d pielāgotos filtrus.</item>
+        <item quantity="one">Var izveidot ne vairāk kā %d pielāgoto filtru.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Lai izvairītos no pārkaršanas, režīmā %2$s ierakstiet ne ilgāk par %1$d minūtēm.</item>
+        <item quantity="zero">Lai izvairītos no pārkaršanas, režīmā %2$s ierakstiet ne ilgāk par %1$d minūtēm.</item>
+        <item quantity="one">Lai izvairītos no pārkaršanas, režīmā %2$s ierakstiet ne ilgāk par %1$d minūti.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

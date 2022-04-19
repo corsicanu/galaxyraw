@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">මුහුණු %dක්</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">මුහුණු %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">අභිමත පෙරහන් %dකට වඩා සෑදිය නොහැක.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">අභිමත පෙරහන් %dකට වඩා සෑදිය නොහැක.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">අධිකව රත් වීම වැළැක්වීමට, %2$s විනාඩි %1$dකට වඩා පටිගත නොකරන්න.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">අධිකව රත් වීම වැළැක්වීමට, %2$s විනාඩි %1$dකට වඩා පටිගත නොකරන්න.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

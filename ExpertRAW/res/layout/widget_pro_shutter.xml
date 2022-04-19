@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/widget_pro_shutter_0" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.airbnb.lottie.LottieAnimationView android:id="@id/shutter_loop" android:visibility="invisible" android:layout_width="@dimen/base_menu_center_button_area_size" android:layout_height="@dimen/base_menu_center_button_area_size" android:scaleType="centerCrop" app:lottie_rawRes="@raw/lottie_shutter_processing_loop" />
+    <com.airbnb.lottie.LottieAnimationView android:id="@id/shutter_morph_start" android:layout_width="@dimen/base_menu_center_button_area_size" android:layout_height="@dimen/base_menu_center_button_area_size" android:scaleType="centerCrop" app:lottie_rawRes="@raw/lottie_shutter_morph_start" />
+</RelativeLayout>

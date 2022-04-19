@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_focus_center_multi__90" android:duration="150" android:startOffset="0" android:valueFrom="M11.39 3.95 C11.39,3.95 19.3,3.95 19.3,3.95 C19.3,3.95 19.3,-3.95 19.3,-3.95 C19.3,-3.95 11.39,-3.96 11.39,-3.96 C11.39,-3.96 11.39,3.95 11.39,3.95c " android:valueTo="M10.3 5.04 C10.3,5.04 20.38,5.04 20.38,5.04 C20.38,5.04 20.38,-5.04 20.38,-5.04 C20.38,-5.04 10.3,-5.04 10.3,-5.04 C10.3,-5.04 10.3,5.04 10.3,5.04c " android:valueType="pathType" android:propertyName="pathData" />
+</set>

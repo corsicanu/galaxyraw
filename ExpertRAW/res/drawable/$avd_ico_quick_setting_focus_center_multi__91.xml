@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_focus_center_multi__92" android:duration="150" android:startOffset="0" android:valueFrom="1.96428" android:valueTo="0.6" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_focus_center_multi__93" android:duration="150" android:startOffset="0" android:valueFrom="1.96428" android:valueTo="0.6" android:valueType="floatType" android:propertyName="scaleY" />
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_focus_center_multi__94" android:duration="200" android:startOffset="150" android:valueFrom="0.6" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_focus_center_multi__95" android:duration="200" android:startOffset="150" android:valueFrom="0.6" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleY" />
+</set>

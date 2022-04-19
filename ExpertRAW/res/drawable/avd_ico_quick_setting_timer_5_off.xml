@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/$avd_ico_quick_setting_timer_5_off__0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <target android:name="s3pg1pg2p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_off__1" />
+    <target android:name="s3pg1pg2p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_off__3" />
+    <target android:name="s3pg1pg1p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_off__8" />
+    <target android:name="s3pg1pg1p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_off__9" />
+    <target android:name="s3pg1pg1p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_off__11" />
+    <target android:name="s2" android:animation="@drawable/$avd_ico_quick_setting_timer_5_off__16" />
+    <target android:name="s2pg1p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_off__18" />
+    <target android:name="s1pg2p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_off__19" />
+    <target android:name="s1pg1p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_off__20" />
+    <target android:name="s1pg1p10" android:animation="@drawable/$avd_ico_quick_setting_timer_5_off__21" />
+</animated-vector>

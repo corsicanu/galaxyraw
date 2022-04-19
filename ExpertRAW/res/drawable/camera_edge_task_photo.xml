@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/camera_edge_task_quick_option_bg" />
+    <item android:gravity="center" android:height="@dimen/task_edge_main_icon_size" android:width="@dimen/task_edge_main_icon_size" android:drawable="@drawable/camera_edge_task_ic_photo" />
+</layer-list>

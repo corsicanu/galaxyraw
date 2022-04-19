@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$avd_af_motion_help__11" android:duration="350" android:startOffset="0" android:valueFrom="5" android:valueTo="2" android:valueType="floatType" android:propertyName="strokeWidth" />
+    <objectAnimator android:interpolator="@drawable/$avd_af_motion_help__12" android:duration="1000" android:startOffset="350" android:valueFrom="2" android:valueTo="2" android:valueType="floatType" android:propertyName="strokeWidth" />
+    <objectAnimator android:interpolator="@drawable/$avd_af_motion_help__13" android:duration="333" android:startOffset="1350" android:valueFrom="2" android:valueTo="5" android:valueType="floatType" android:propertyName="strokeWidth" />
+</set>

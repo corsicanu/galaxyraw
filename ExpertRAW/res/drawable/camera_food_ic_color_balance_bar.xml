@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="30.0dip" android:width="276.0dip" android:viewportWidth="276.0" android:viewportHeight="30.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$camera_food_ic_color_balance_bar__0" android:pathData="M273.487,17.25L2.513,17.25A2.25,2.25 0,0 1,0.263 15L0.263,15A2.25,2.25 0,0 1,2.513 12.75L273.487,12.75A2.25,2.25 0,0 1,275.737 15L275.737,15A2.25,2.25 0,0 1,273.487 17.25z" android:strokeColor="#ff000000" android:strokeWidth="0.5" android:strokeAlpha="0.15" android:fillType="evenOdd" />
+</vector>

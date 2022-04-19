@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d обличчя</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d обличчя</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d обличчя</item>
+        <item quantity="many">%d облич</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового сповіщення</item>
+        <item quantity="one">%d нове сповіщення</item>
+        <item quantity="few">%d нові сповіщення</item>
+        <item quantity="many">%d нових сповіщень</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Неможливо створити більше ніж %d користувацького фільтра.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Неможливо створити більше ніж %d користувацький фільтр.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Неможливо створити більше ніж %d користувацьких фільтри.</item>
+        <item quantity="many">Неможливо створити більше ніж %d користувацьких фільтрів.</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Щоб запобігти перегріванню, знімайте відео в режимі «%2$s» не довше %1$d хвилини.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Щоб запобігти перегріванню, знімайте відео в режимі «%2$s» не довше %1$d хвилини.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Щоб запобігти перегріванню, знімайте відео в режимі «%2$s» не довше %1$d хвилин.</item>
+        <item quantity="many">Щоб запобігти перегріванню, знімайте відео в режимі «%2$s» не довше %1$d хвилин.</item>
+    </plurals>
+</resources>

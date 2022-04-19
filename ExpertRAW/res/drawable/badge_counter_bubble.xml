@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/about_page_list_badge_bg_color" />
+    <padding android:left="@dimen/about_page_badge_padding" android:right="@dimen/about_page_badge_padding" />
+    <size android:height="@dimen/about_page_badge_size" android:width="@dimen/about_page_badge_size" />
+    <corners android:radius="11.0dip" />
+    <stroke android:width="2.0px" android:color="#fffafafa" />
+</shape>

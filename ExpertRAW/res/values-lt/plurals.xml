@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d veidų</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d veidas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d veidai</item>
+        <item quantity="many">%d veidų</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d naujų pranešimų</item>
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Negalima sukurti daugiau nei %d pasirinktinių filtrų.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Negalima sukurti daugiau nei %d pasirinktinio filtro.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Negalima sukurti daugiau nei %d pasirinktinių filtrų.</item>
+        <item quantity="many">Negalima sukurti daugiau nei %d pasirinktinių filtrų.</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Kad išvengtumėte perkaitimo, neįrašinėkite %2$s ilgiau nei %1$d min.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kad išvengtumėte perkaitimo, neįrašinėkite %2$s ilgiau nei %1$d min.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Kad išvengtumėte perkaitimo, neįrašinėkite %2$s ilgiau nei %1$d min.</item>
+        <item quantity="many">Kad išvengtumėte perkaitimo, neįrašinėkite %2$s ilgiau nei %1$d min.</item>
+    </plurals>
+</resources>

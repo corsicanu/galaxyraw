@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d tvárí</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d tvár</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d tváre</item>
+        <item quantity="many">%d tváre</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových upozornení</item>
+        <item quantity="one">%d nové upozornenie</item>
+        <item quantity="few">%d nové upozornenia</item>
+        <item quantity="many">%d new notifications</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Nedá sa vytvoriť viac než %d vlastných filtrov.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nedá sa vytvoriť viac než %d vlastný filter.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Nedajú sa vytvoriť viac než %d vlastné filtre.</item>
+        <item quantity="many">Nedá sa vytvoriť viac než %d vlastného filtra.</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Nenahrávajte viac než %1$d minút %2$s, aby sa zabránilo prehriatiu.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nenahrávajte viac než %1$d minútu %2$s, aby sa zabránilo prehriatiu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Nenahrávajte viac než %1$d minúty %2$s, aby sa zabránilo prehriatiu.</item>
+        <item quantity="many">Nenahrávajte viac než %1$d minúty %2$s, aby sa zabránilo prehriatiu.</item>
+    </plurals>
+</resources>

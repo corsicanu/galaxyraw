@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d mukha</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d mukha</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d na bagong notification</item>
+        <item quantity="one">%d bagong notification</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Hindi makalikha ng higit sa %d custom na filter.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Hindi makalikha ng higit sa %d custom na filter.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Para maiwasan ang labis na pag-init, huwag mag-record ng higit sa %1$d minuto ng %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Para maiwasan ang labis na pag-init, huwag mag-record ng higit sa %1$d minuto ng %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

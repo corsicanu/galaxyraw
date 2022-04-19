@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/popup_layer_toast_background_radius" />
+    <solid android:color="#540f0f0f" />
+    <stroke android:width="@dimen/smart_tips_text_box_night_button_stroke_width" android:color="#ff363636" />
+</shape>

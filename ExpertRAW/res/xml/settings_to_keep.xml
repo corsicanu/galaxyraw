@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:key="useful_features"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_KeepCameraMode" android:key="@string/key_keep_camera_mode" android:summary="@string/keep_camera_mode_summary" />
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_KeepSelfieAngle" android:key="@string/key_keep_selfie_angle" android:summary="@string/keep_selfie_angle_summary" />
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_KeepFilters" android:key="@string/key_keep_filters" android:summary="@string/keep_filters_summary" />
+</androidx.preference.PreferenceScreen>

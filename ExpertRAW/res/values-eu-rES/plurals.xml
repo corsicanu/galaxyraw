@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d aurpegi</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aurpegi</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Gehienez ere %d iragazki pertsonalizatu sor daitezke.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Gehienez ere %d iragazki pertsonalizatu sor daiteke.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Gehiegi ez berotzeko, grabatu gehienez %1$d minutuko %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Gehiegi ez berotzeko, grabatu gehienez %1$d minutuko %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

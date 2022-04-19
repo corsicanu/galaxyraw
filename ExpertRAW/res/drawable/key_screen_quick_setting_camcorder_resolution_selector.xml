@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <level-list>
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_8k_30_on" android:maxLevel="0" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_8k_24_on" android:maxLevel="1" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_uhd60_on" android:maxLevel="2" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_uhd30_on" android:maxLevel="3" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_uhd24_on" android:maxLevel="4" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_fhdauto_on" android:maxLevel="5" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_fhd120_on" android:maxLevel="6" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_fhd60_on" android:maxLevel="7" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_fhd30_on" android:maxLevel="8" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_fhd24_on" android:maxLevel="9" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_hd30_on" android:maxLevel="10" />
+        </level-list>
+    </item>
+    <item>
+        <level-list>
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_8k_30" android:maxLevel="0" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_8k_24" android:maxLevel="1" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_uhd60" android:maxLevel="2" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_uhd30" android:maxLevel="3" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_uhd24" android:maxLevel="4" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_fhdauto" android:maxLevel="5" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_fhd120" android:maxLevel="6" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_fhd60" android:maxLevel="7" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_fhd30" android:maxLevel="8" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_fhd24" android:maxLevel="9" />
+            <item android:drawable="@drawable/ic_camera_quick_ic_motion_hd30" android:maxLevel="10" />
+        </level-list>
+    </item>
+</selector>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="68.0dip" android:width="68.0dip" android:viewportWidth="272.0" android:viewportHeight="272.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:name="_R_G">
+        <group android:name="_R_G_L_1_G">
+            <group android:name="_R_G_L_1_G_D_0_P_0_G_0_T_0" android:translateX="96.292" android:translateY="136.0">
+                <path android:name="_R_G_L_1_G_D_0_P_0" android:fillColor="#fff5d2d2" android:pathData=" M38 0 C38,20.99 20.99,38 0,38 C-20.99,38 -38,20.99 -38,0 C-38,-20.98 -20.99,-38 0,-38 C20.99,-38 38,-20.98 38,0c " android:fillAlpha="0.0" android:fillType="nonZero" />
+            </group>
+            <group android:name="_R_G_L_1_G_D_1_P_0_G_0_T_0" android:translateX="116.0" android:translateY="136.0">
+                <path android:name="_R_G_L_1_G_D_1_P_0" android:fillColor="#ffea8d90" android:pathData=" M38 0 C38,20.99 20.99,38 0,38 C-20.99,38 -38,20.99 -38,0 C-38,-20.98 -20.99,-38 0,-38 C20.99,-38 38,-20.98 38,0c " android:fillAlpha="0.0" android:fillType="nonZero" />
+            </group>
+            <group android:name="_R_G_L_1_G_D_2_P_0_G_0_T_0" android:translateX="136.0" android:translateY="136.0">
+                <path android:name="_R_G_L_1_G_D_2_P_0" android:fillColor="#ffd71e23" android:pathData=" M38 0 C38,20.99 20.99,38 0,38 C-20.99,38 -38,20.99 -38,0 C-38,-20.98 -20.99,-38 0,-38 C20.99,-38 38,-20.98 38,0c " android:fillAlpha="0.0" android:fillType="nonZero" />
+            </group>
+        </group>
+        <group android:name="_R_G_L_0_G">
+            <path android:name="_R_G_L_0_G_D_0_P_0" android:fillColor="#fff5d2d2" android:pathData=" M134.29 136 C134.29,156.99 117.28,174 96.29,174 C75.31,174 58.29,156.99 58.29,136 C58.29,115.02 75.31,98 96.29,98 C117.28,98 134.29,115.02 134.29,136c " android:fillAlpha="1.0" android:fillType="nonZero" />
+            <path android:name="_R_G_L_0_G_D_1_P_0" android:fillColor="#ffea8d90" android:pathData=" M174 136 C174,156.99 156.99,174 136,174 C115.02,174 98,156.99 98,136 C98,115.02 115.02,98 136,98 C156.99,98 174,115.02 174,136c " android:fillAlpha="1.0" android:fillType="nonZero" />
+            <path android:name="_R_G_L_0_G_D_2_P_0" android:fillColor="#ffd71e23" android:pathData=" M213.71 136 C213.71,156.99 196.69,174 175.71,174 C154.72,174 137.71,156.99 137.71,136 C137.71,115.02 154.72,98 175.71,98 C196.69,98 213.71,115.02 213.71,136c " android:fillAlpha="1.0" android:fillType="nonZero" />
+        </group>
+    </group>
+    <group android:name="time_group" />
+</vector>

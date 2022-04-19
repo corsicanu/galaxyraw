@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="about_page_button_bg_color">#ff1f1f1f</color>
+    <color name="about_page_msg_popup_text_color">#fffafafa</color>
+    <color name="appbar_navigation_button_color">#fffafafa</color>
+    <color name="divider_color">#ffd4d4d4</color>
+    <color name="gps_dialog_description_color">#ffe0e0e0</color>
+    <color name="master_switch_off_bg_color">#2bfafafa</color>
+    <color name="master_switch_off_text_color">#fffafafa</color>
+    <color name="master_switch_on_bg_color">#ffffd90d</color>
+    <color name="master_switch_on_text_color">#ffffd90d</color>
+    <color name="open_source_license_background_color">#ff000000</color>
+    <color name="open_source_license_text_color">#fffafafa</color>
+    <color name="permission_item_description_text_color">#ffe5e5e5</color>
+    <color name="permission_item_name_description_text_color">#ff999999</color>
+    <color name="permission_item_name_text_color">#fffafafa</color>
+    <color name="permission_sub_title_text_color">#ffe5e5e5</color>
+    <color name="permissions_page_background_color">@color/theme_bg_color</color>
+    <color name="sesl_fragment_bgcolor">#ff171717</color>
+    <color name="sesl_fragment_fgcolor">#ff010101</color>
+    <color name="sesl_text_input_layout_hint_text_color">#ff999999</color>
+    <color name="spinner_contents_text_default_color">@color/default_white_color</color>
+    <color name="terms_of_services_background_color">#ff000000</color>
+    <color name="terms_of_services_text_color">#fffafafa</color>
+    <color name="theme_appbar_color">#ff010101</color>
+    <color name="theme_bg_color">#ff010101</color>
+    <color name="theme_list_color">#ff252525</color>
+</resources>

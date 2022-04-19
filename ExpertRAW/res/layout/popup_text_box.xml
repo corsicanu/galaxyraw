@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/textBoxViewGroup" android:tag="layout/popup_text_box_0" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="@dimen/overlay_help_title_text_size" android:textColor="@color/more_help_title_color" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/base_menu_helper_text_width" android:text="@string/helper_main_text" android:fontFamily="@style/RobotoMedium" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <TextView android:textSize="@dimen/overlay_help_description_text_size" android:textColor="@color/more_help_description_color" android:id="@id/description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/overlay_help_description_margin_top" android:maxWidth="@dimen/overlay_help_description_max_width" android:text="@string/helper_sub_text" android:fontFamily="@style/RobotoMedium" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toBottomOf="@id/title" />
+</androidx.constraintlayout.widget.ConstraintLayout>

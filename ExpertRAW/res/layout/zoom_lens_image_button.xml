@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.app.galaxyraw.layer.keyscreen.zoom.ZoomLensImageButton android:gravity="center" android:tag="layout/zoom_lens_image_button_0" android:background="@drawable/zoom_image_button_background" android:layout_width="@dimen/overlay_layout_zoom_group_lens_image_button_size" android:layout_height="@dimen/overlay_layout_zoom_group_lens_image_button_size"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/background" android:background="@drawable/zoom_image_button_focus_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0" android:scaleX="0.0" android:scaleY="0.0" android:stateListAnimator="@animator/zoom_image_animator" />
+    <ImageView android:id="@id/image" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.samsung.android.app.galaxyraw.layer.keyscreen.zoom.ZoomLensImageButton>

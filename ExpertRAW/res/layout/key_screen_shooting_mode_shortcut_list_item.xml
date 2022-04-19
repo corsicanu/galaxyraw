@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:gravity="center" android:id="@id/shooting_mode_item_layout" android:tag="layout/key_screen_shooting_mode_shortcut_list_item_0" android:layout_width="wrap_content" android:layout_height="fill_parent" android:minHeight="@dimen/shooting_mode_shortcut_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:id="@id/shooting_mode_item" android:layout_width="wrap_content" android:layout_height="fill_parent" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <com.samsung.android.app.galaxyraw.layer.keyscreen.shootingmodelist.ShootingModeListButton android:textAppearance="@style/ShootingModeButton" android:layout_gravity="center_vertical" android:id="@id/shooting_mode_item_button" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="@dimen/shooting_mode_shortcut_item_height" android:textAllCaps="true" app:textStroke="true" app:textStrokeColor="@color/default_text_stroke_color" app:textStrokeWidth="@integer/default_stroke_width" />
+        <ImageView android:id="@id/new_badge" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/beauty_filter_tab_new_badge_top_margin" android:src="@drawable/ic_dot_case" android:scaleType="centerCrop" android:contentDescription="@null" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

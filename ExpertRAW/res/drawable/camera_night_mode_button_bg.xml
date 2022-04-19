@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/use_night_mode_bg_color" />
+    <stroke android:width="@dimen/smart_tips_text_box_night_button_stroke_width" android:color="@color/use_night_mode_bg_stroke_color" />
+    <corners android:radius="@dimen/smart_tips_text_box_night_button_radius" />
+</shape>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d ಮುಖಗಳು</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ಮುಖ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">%dಕ್ಕೂ ಹೆಚ್ಚಿನ ಕಸ್ಟಮ್ ಫಿಲ್ಟರ್‌ಗಳನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dಕ್ಕೂ ಹೆಚ್ಚಿನ ಕಸ್ಟಮ್ ಫಿಲ್ಟರ್ ರಚಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">ತುಂಬಾ ಬಿಸಿಯಾಗುವಿಕೆಯನ್ನು ತಪ್ಪಿಸಲು, %1$d ನಿಮಿಷಗಳಿಗಿಂತ ಹೆಚ್ಚಿನ %2$s ಅನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಬೇಡಿ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ತುಂಬಾ ಬಿಸಿಯಾಗುವಿಕೆಯನ್ನು ತಪ್ಪಿಸಲು, %1$d ಕ್ಕಿಂತ ಹೆಚ್ಚು ನಿಮಿಷದ %2$s ಅನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಬೇಡಿ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

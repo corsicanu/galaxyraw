@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d arc</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d arc</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Legfeljebb %d egyéni szűrő hozható létre.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Legfeljebb %d egyéni szűrő hozható létre.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">A túlmelegedés elkerülése érdekében legfeljebb %1$d percig készítsen felvételt %2$s módban.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">A túlmelegedés elkerülése érdekében legfeljebb %1$d percig készítsen felvételt %2$s módban.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

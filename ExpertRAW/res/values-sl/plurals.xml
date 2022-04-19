@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d obrazov</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d obraz</item>
+        <item quantity="two">%d obraza</item>
+        <item quantity="few">%d obrazi</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novi obvestili</item>
+        <item quantity="few">%d nova obvestila</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Ustvarite lahko največ %d filtrov po meri.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ustvarite lahko največ %d filter po meri.</item>
+        <item quantity="two">Ustvarite lahko največ %d filtra po meri.</item>
+        <item quantity="few">Ustvarite lahko največ %d filtre po meri.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Da bi se izognili pregrevanju, v načinu %2$s snemajte največ %1$d minut.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Da bi se izognili pregrevanju, v načinu %2$s snemajte največ %1$d minuto.</item>
+        <item quantity="two">Da bi se izognili pregrevanju, v načinu %2$s snemajte največ %1$d minuti.</item>
+        <item quantity="few">Da bi se izognili pregrevanju, v načinu %2$s snemajte največ %1$d minute.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

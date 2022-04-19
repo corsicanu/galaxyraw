@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:duration="50" android:startOffset="0" android:valueFrom="70.5" android:valueTo="70.5" android:valueType="floatType" android:propertyName="translateX" />
+    <objectAnimator android:duration="50" android:startOffset="0" android:valueFrom="88.252" android:valueTo="88.252" android:valueType="floatType" android:propertyName="translateY" />
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_ratio_921_34__14" android:duration="350" android:startOffset="50" android:propertyName="translateXY" android:pathData="M 70.5,88.252C 72.083,88.252 78.417,88.252 80,88.252" android:propertyXName="translateX" android:propertyYName="translateY" />
+</set>

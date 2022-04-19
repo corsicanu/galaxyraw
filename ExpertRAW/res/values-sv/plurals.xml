@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d ansikten</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ansikte</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nya aviseringar</item>
+        <item quantity="one">%d ny avisering</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Det går inte att skapa fler än %d anpassade filter.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Det går inte att skapa fler än %d anpassat filter.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Spela inte in mer än %1$d minuter med %2$s för att undvika överhettning.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Spela inte in mer än %1$d minut med %2$s för att undvika överhettning.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

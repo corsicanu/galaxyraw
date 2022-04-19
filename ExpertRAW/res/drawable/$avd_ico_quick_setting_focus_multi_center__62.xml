@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_focus_multi_center__63" android:duration="133" android:startOffset="0" android:valueFrom="M5.04 5.04 C5.04,5.04 -5.04,5.04 -5.04,5.04 C-5.04,5.04 -5.04,-5.04 -5.04,-5.04 C-5.04,-5.04 5.04,-5.04 5.04,-5.04 C5.04,-5.04 5.04,5.04 5.04,5.04c " android:valueTo="M5.04 5.04 C5.04,5.04 -5.04,5.04 -5.04,5.04 C-5.04,5.04 -5.04,-5.04 -5.04,-5.04 C-5.04,-5.04 5.04,-5.04 5.04,-5.04 C5.04,-5.04 5.04,5.04 5.04,5.04c " android:valueType="pathType" android:propertyName="pathData" />
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_focus_multi_center__64" android:duration="217" android:startOffset="133" android:valueFrom="M5.04 5.04 C5.04,5.04 -5.04,5.04 -5.04,5.04 C-5.04,5.04 -5.04,-5.04 -5.04,-5.04 C-5.04,-5.04 5.04,-5.04 5.04,-5.04 C5.04,-5.04 5.04,5.04 5.04,5.04c " android:valueTo="M12.95 12.95 C12.95,12.95 -12.96,12.95 -12.96,12.95 C-12.96,12.95 -12.94,-12.95 -12.94,-12.95 C-12.94,-12.95 12.98,-12.95 12.98,-12.95 C12.98,-12.95 12.95,12.95 12.95,12.95c " android:valueType="pathType" android:propertyName="pathData" />
+</set>

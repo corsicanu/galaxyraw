@@ -1,0 +1,36 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<resources>
+    <!-- Shootingmode -->
+    <local name="SHOOTING_MODE_PRO" back="PRO" enable="true" more="false" order="1" />
+
+    <!-- Capture resolution - BACK -->
+    <local name="BACK_CAMERA_RESOLUTION_4BY3_LARGE" value="4000x3000" />
+    <local name="BACK_WIDE_CAMERA_RESOLUTION_4BY3_LARGE" value="4000x3000" />
+    <local name="BACK_CAMERA_SECOND_PICTURE_RESOLUTION_4BY3" value="4000x3000" />
+
+    <!-- Thermistor Temperature - Only JPN used -->
+    <local name="FLASH_OVERHEAT_LIMITATION_TEMP" value="490" />
+
+    <!-- Multi-camera features -->
+    <local name="BACK_TELE_CAMERA_ZOOM_LEVEL" value="3.0" />
+
+    <!-- Misc. Features -->
+    <local name="SHOW_PAUSED_PREVIEW_TO_RESUME_CAMERA" value="true" />
+    <local name="DISPLAY_FRAME_RATE_IN_HZ" value="60" />
+
+    <!-- U-Raw features -->
+    <local name="SUPPORT_HISTOGRAM" value="true" />
+    <local name="SUPPORT_PRO_RESET" value="true" />
+    <local name="SUPPORT_PRO_AE_PRIORITY_MODE" value="true" />
+    <local name="SUPPORT_EXPAND_SHUTTER_SPEED" value="true" />
+
+    <!-- post processing features -->
+    <local name="SUPPORT_POST_PICTURE_PROCESSING" value="true" />
+
+    <!--TARGET PLATFORM VERSION-->
+    <local name="TARGET_PLATFORM_VERSION" value="12.01.01" />
+
+    <!--Guide Line-->
+    <local name="TOP_GUIDE_LINE" value="0.091" />
+    <local name="BOTTOM_GUIDE_LINE" value="0.706" />
+</resources>

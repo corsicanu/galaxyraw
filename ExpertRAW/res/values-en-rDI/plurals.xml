@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">PLURAL_OTHER_CAM_TBOPT_PD_FACES</item>
+        <item quantity="zero">PLURAL_ZERO_CAM_TBOPT_PD_FACES</item>
+        <item quantity="one">PLURAL_ONE_CAM_TBOPT_PD_FACES</item>
+        <item quantity="two">PLURAL_TWO_CAM_TBOPT_PD_FACES</item>
+        <item quantity="few">PLURAL_FEW_CAM_TBOPT_PD_FACES</item>
+        <item quantity="many">PLURAL_MANY_CAM_TBOPT_PD_FACES</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">PLURAL_OTHER_CAM_TPOP_CANT_CREATE_MORE_THAN_PD_CUSTOM_FILTERS</item>
+        <item quantity="zero">PLURAL_ZERO_CAM_TPOP_CANT_CREATE_MORE_THAN_PD_CUSTOM_FILTERS</item>
+        <item quantity="one">PLURAL_ONE_CAM_TPOP_CANT_CREATE_MORE_THAN_PD_CUSTOM_FILTERS</item>
+        <item quantity="two">PLURAL_TWO_CAM_TPOP_CANT_CREATE_MORE_THAN_PD_CUSTOM_FILTERS</item>
+        <item quantity="few">PLURAL_FEW_CAM_TPOP_CANT_CREATE_MORE_THAN_PD_CUSTOM_FILTERS</item>
+        <item quantity="many">PLURAL_MANY_CAM_TPOP_CANT_CREATE_MORE_THAN_PD_CUSTOM_FILTERS</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">PLURAL_OTHER_CAM_BODY_TO_AVOID_OVERHEATING_DONT_RECORD_MORE_THAN_P1SD_MINUTES_OF_P2SS</item>
+        <item quantity="zero">PLURAL_ZERO_CAM_BODY_TO_AVOID_OVERHEATING_DONT_RECORD_MORE_THAN_P1SD_MINUTES_OF_P2SS</item>
+        <item quantity="one">PLURAL_ONE_CAM_BODY_TO_AVOID_OVERHEATING_DONT_RECORD_MORE_THAN_P1SD_MINUTES_OF_P2SS</item>
+        <item quantity="two">PLURAL_TWO_CAM_BODY_TO_AVOID_OVERHEATING_DONT_RECORD_MORE_THAN_P1SD_MINUTES_OF_P2SS</item>
+        <item quantity="few">PLURAL_FEW_CAM_BODY_TO_AVOID_OVERHEATING_DONT_RECORD_MORE_THAN_P1SD_MINUTES_OF_P2SS</item>
+        <item quantity="many">PLURAL_MANY_CAM_BODY_TO_AVOID_OVERHEATING_DONT_RECORD_MORE_THAN_P1SD_MINUTES_OF_P2SS</item>
+    </plurals>
+</resources>

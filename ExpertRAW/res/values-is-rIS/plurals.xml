@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d andlit</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d andlit</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Ekki er hægt að búa til fleiri en %d sérsniðnar síur.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ekki er hægt að búa til fleiri en %d sérsniðna síu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Til að forðast ofhitnun skal ekki taka upp meira en %1$d mínútur af %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Til að forðast ofhitnun skal ekki taka upp meira en %1$d mínútu af %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

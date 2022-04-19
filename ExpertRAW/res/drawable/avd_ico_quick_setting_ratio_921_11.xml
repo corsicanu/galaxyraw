@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/$avd_ico_quick_setting_ratio_921_11__0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <target android:name="_R_G_L_2_G_G_0_L_3_G_N_6_T_0" android:animation="@drawable/$avd_ico_quick_setting_ratio_921_11__1" />
+    <target android:name="_R_G_L_2_G_G_0_L_2_G_N_5_T_0" android:animation="@drawable/$avd_ico_quick_setting_ratio_921_11__3" />
+    <target android:name="_R_G_L_2_G_G_0_L_1_G_N_5_T_0" android:animation="@drawable/$avd_ico_quick_setting_ratio_921_11__6" />
+    <target android:name="_R_G_L_2_G_G_0_L_0_G_N_6_T_0" android:animation="@drawable/$avd_ico_quick_setting_ratio_921_11__9" />
+    <target android:name="_R_G_L_0_G_G_0_D_0_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_ratio_921_11__11" />
+    <target android:name="_R_G_L_0_G_G_0_D_0_P_1_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_ratio_921_11__13" />
+    <target android:name="_R_G_L_0_G_G_0_D_1_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_ratio_921_11__15" />
+    <target android:name="_R_G_L_0_G_G_0_D_1_P_1_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_ratio_921_11__17" />
+    <target android:name="time_group" android:animation="@drawable/$avd_ico_quick_setting_ratio_921_11__19" />
+</animated-vector>

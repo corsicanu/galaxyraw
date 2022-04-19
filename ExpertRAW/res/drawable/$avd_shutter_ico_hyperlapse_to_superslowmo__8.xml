@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$avd_shutter_ico_hyperlapse_to_superslowmo__9" android:duration="150" android:startOffset="0" android:propertyName="translateXY" android:pathData="M 110.293,136C 107.96000000000001,136 98.625,136 96.292,136" android:propertyXName="translateX" android:propertyYName="translateY" />
+</set>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:duration="133" android:startOffset="0" android:valueFrom="80" android:valueTo="80" android:valueType="floatType" android:propertyName="translateX" />
+    <objectAnimator android:duration="133" android:startOffset="0" android:valueFrom="80" android:valueTo="80" android:valueType="floatType" android:propertyName="translateY" />
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_motion_photo_on_to_on__17" android:duration="267" android:startOffset="133" android:propertyName="translateXY" android:pathData="M 47,80C 47,80 74.5,80 80,80" android:propertyXName="translateX" android:propertyYName="translateY" />
+</set>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d gymbōw</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d gymba</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d gymby</item>
+        <item quantity="many">%d gymbōw</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Idzie zônaczyć co nojwyżyj %d filtrōw włŏsnych.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Idzie zônaczyć co nojwyżyj %d filter włŏsny.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Idzie zônaczyć co nojwyżyj %d filtry włŏsne.</item>
+        <item quantity="many">Idzie zônaczyć co nojwyżyj %d filtrōw włŏsnych.</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Coby niy dozwolić do przegrzŏniŏ, niy nagrŏwej wiyncyj jak %1$d minut materyje %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Coby niy dozwolić do przegrzŏniŏ, niy nagrŏwej wiyncyj jak %d minuty materyje UHD ze załōnczōnõ blyndōm.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Coby niy dozwolić do przegrzŏniŏ, niy nagrŏwej wiyncyj jak %1$d minut materyje %2$s.</item>
+        <item quantity="many">Coby niy dozwolić do przegrzŏniŏ, niy nagrŏwej wiyncyj jak %1$d minut materyje %2$s.</item>
+    </plurals>
+</resources>

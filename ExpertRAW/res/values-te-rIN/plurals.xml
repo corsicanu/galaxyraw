@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d ముఖాలు</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ముఖం</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">%d కంటే ఎక్కువ ఫిల్టర్‌లను సృష్టించలేరు.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d కంటే ఎక్కువ ఫిల్టర్ సృష్టించలేరు.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">అధిక వేడిని నివారించడానికి, %2$sలో %1$d నిమిషాల కంటే ఎక్కువ రికార్డ్ చేయవద్దు.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">అధిక వేడిని నివారించడానికి, %2$sలో %1$d నిమిషం కంటే ఎక్కువ రికార్డ్ చేయవద్దు.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

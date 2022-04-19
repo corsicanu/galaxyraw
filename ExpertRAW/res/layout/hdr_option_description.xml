@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/description_layout" android:background="@color/theme_list_color" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingTop="@dimen/winset_list_item_margin" android:paddingBottom="@dimen/winset_list_item_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/winset_list_item_end_padding" android:layout_marginEnd="@dimen/winset_list_item_end_padding">
+        <TextView android:textAppearance="@style/RobotoMedium" android:textSize="@dimen/super_slow_motion_description_text_size" android:textColor="@color/intelligent_recognition_sub_setting_description_color" android:ellipsize="marquee" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hdr_apply_setting_description" android:lineSpacingExtra="@dimen/camcorder_description_line_spacing" />
+    </LinearLayout>
+    <View android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="@dimen/winset_list_divider_height" />
+</LinearLayout>

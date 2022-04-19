@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d твараў</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d твар</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d твары</item>
+        <item quantity="many">%d твараў</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Немагчыма стварыць больш %d адмысловых фільтраў.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Немагчыма стварыць больш %d адмысловага фільтра.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Немагчыма стварыць больш %d адмысловых фільтраў.</item>
+        <item quantity="many">Немагчыма стварыць больш %d адмысловых фільтраў.</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Каб пазбегнуць перагрэву, не запісвайце больш за %1$d хвілін %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Каб пазбегнуць перагрэву, не запісвайце больш за %1$d хвіліну %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Каб пазбегнуць перагрэву, не запісвайце больш за %1$d хвіліны %2$s.</item>
+        <item quantity="many">Каб пазбегнуць перагрэву, не запісвайце больш за %1$d хвілін %2$s.</item>
+    </plurals>
+</resources>

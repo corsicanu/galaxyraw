@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d ચહેરા</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ચહેરો</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">%d કરતાં વધુ કસ્ટમ ફિલ્ટરો બનાવી શકાય નહીં.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d કરતાં વધુ કસ્ટમ ફિલ્ટર બનાવી શકાય નહીં.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">વધુ ગરમ થવાનું ટાળવા માટે, %1$d મિનિટથી વધારે લાંબો %2$s રેકૉર્ડ ન કરો.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">વધુ ગરમ થવાનું ટાળવા માટે, %1$d મિનિટથી વધારે લાંબો %2$s રેકૉર્ડ ન કરો.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

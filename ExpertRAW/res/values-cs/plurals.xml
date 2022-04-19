@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d obličejů</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d obličej</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d obličeje</item>
+        <item quantity="many">%d obličejů</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nová oznámení</item>
+        <item quantity="many">%d nového oznámení</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Nelze vytvořit více než %d vlastních filtrů.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nelze vytvořit více než %d vlastní filtr.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Nelze vytvořit více než %d vlastní filtry.</item>
+        <item quantity="many">Nelze vytvořit více než %d vlastních filtrů.</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Abyste zabránili přehřátí, nenahrávejte v režimu %2$s déle než %1$d minut.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Abyste zabránili přehřátí, nenahrávejte v režimu %2$s déle než %1$d minutu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Abyste zabránili přehřátí, nenahrávejte v režimu %2$s déle než %1$d minuty.</item>
+        <item quantity="many">Abyste zabránili přehřátí, nenahrávejte v režimu %2$s déle než %1$d minut.</item>
+    </plurals>
+</resources>

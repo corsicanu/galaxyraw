@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_food_blur_on_off__11" android:duration="100" android:startOffset="0" android:valueFrom="M46.71 53.01 C46.71,53.01 46.7,53.02 46.7,53.02 C46.7,53.02 50.36,49.31 50.36,49.31 C50.36,49.31 50.37,49.29 50.37,49.29 C50.37,49.29 46.71,53.01 46.71,53.01c " android:valueTo="M46.71 53.01 C46.71,53.01 46.7,53.02 46.7,53.02 C46.7,53.02 50.36,49.31 50.36,49.31 C50.36,49.31 50.37,49.29 50.37,49.29 C50.37,49.29 46.71,53.01 46.71,53.01c " android:valueType="pathType" android:propertyName="pathData" />
+    <objectAnimator android:interpolator="@drawable/$avd_ico_quick_setting_food_blur_on_off__12" android:duration="200" android:startOffset="100" android:valueFrom="M46.71 53.01 C46.71,53.01 46.7,53.02 46.7,53.02 C46.7,53.02 50.36,49.31 50.36,49.31 C50.36,49.31 50.37,49.29 50.37,49.29 C50.37,49.29 46.71,53.01 46.71,53.01c " android:valueTo="M46.71 53.01 C46.71,53.01 110.08,117.36 110.08,117.36 C110.08,117.36 113.73,113.65 113.73,113.65 C113.73,113.65 50.37,49.29 50.37,49.29 C50.37,49.29 46.71,53.01 46.71,53.01c " android:valueType="pathType" android:propertyName="pathData" />
+</set>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$avd_shutter_ico_singletake_to_hyperlapse__9" android:duration="200" android:startOffset="0" android:valueFrom="M33.86 4 C33.86,24.99 16.85,42 -4.14,42 C-4.14,42 -20.86,42.25 -20.86,42.25 C-41.84,42.25 -58.86,25.24 -58.86,4.25 C-58.86,-16.74 -41.84,-33.75 -20.86,-33.75 C-20.86,-33.75 -4.14,-34 -4.14,-34 C16.85,-34 33.86,-16.99 33.86,4c " android:valueTo="M68.36 4.25 C68.36,25.24 51.35,42.25 30.36,42.25 C30.36,42.25 -20.86,42.25 -20.86,42.25 C-41.84,42.25 -58.86,25.24 -58.86,4.25 C-58.86,-16.74 -41.84,-33.75 -20.86,-33.75 C-20.86,-33.75 30.36,-33.75 30.36,-33.75 C51.35,-33.75 68.36,-16.74 68.36,4.25c " android:valueType="pathType" android:propertyName="pathData" />
+</set>

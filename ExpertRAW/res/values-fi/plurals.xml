@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d kasvot</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d kasvot</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d uutta ilmoitusta</item>
+        <item quantity="one">%d uusi ilmoitus</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Yli %d mukautettua suodatinta ei voi luoda.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Yli %d mukautettua suodatinta ei voi luoda.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Jotta laite ei ylikuumene, tallenna sisältöä (%2$s) enintään %1$d minuuttia.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jotta laite ei ylikuumene, tallenna sisältöä (%2$s) enintään %1$d minuutti.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

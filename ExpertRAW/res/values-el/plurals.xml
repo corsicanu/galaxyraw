@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d πρόσωπα</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d πρόσωπο</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+        <item quantity="one">%d νέα ειδοποίηση</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Δεν μπορείτε να δημιουργήσετε πάνω από %d προσαρμοσμένα φίλτρα.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Δεν μπορείτε να δημιουργήσετε πάνω από %d προσαρμοσμένο φίλτρο.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Για να αποφευχθεί η υπερθέρμανση, μην εγγράφετε για πάνω από %1$d λεπτά στη ρύθμιση %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Για να αποφευχθεί η υπερθέρμανση, μην εγγράφετε για πάνω από %1$d λεπτό στη ρύθμιση %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

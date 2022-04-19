@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d faces</item>
+        <item quantity="zero">%d faces</item>
+        <item quantity="one">%d face</item>
+        <item quantity="two">%d faces</item>
+        <item quantity="few">%d faces</item>
+        <item quantity="many">%d faces</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">"Can't create more than %d custom filters."</item>
+        <item quantity="zero">"Can't create more than %d custom filters."</item>
+        <item quantity="one">"Can't create more than %d custom filter."</item>
+        <item quantity="two">"Can't create more than %d custom filters."</item>
+        <item quantity="few">"Can't create more than %d custom filters."</item>
+        <item quantity="many">"Can't create more than %d custom filters."</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">"To avoid overheating, don't record more than %1$d minutes of %2$s."</item>
+        <item quantity="zero">"To avoid overheating, don't record more than %1$d minutes of %2$s."</item>
+        <item quantity="one">"To avoid overheating, don't record more than %1$d minute of %2$s."</item>
+        <item quantity="two">"To avoid overheating, don't record more than %1$d minutes of %2$s."</item>
+        <item quantity="few">"To avoid overheating, don't record more than %1$d minutes of %2$s."</item>
+        <item quantity="many">"To avoid overheating, don't record more than %1$d minutes of %2$s."</item>
+    </plurals>
+</resources>

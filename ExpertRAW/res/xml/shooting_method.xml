@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:key="useful_features"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.app.galaxyraw.setting.SpinnerPreference android:entries="@array/volume_key_to_list" android:title="@string/Title_Volume_Key_As" android:key="@string/key_volume_key_to" android:entryValues="@array/volume_key_to_value" />
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_Voice_Capture" android:key="@string/key_voice_control" />
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_FloatingCameraButton" android:key="@string/key_floating_camera_button" android:summary="@string/floating_camera_button" />
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_Tap_To_Take_Pictures" android:key="@string/key_tap_to_take_pictures" android:summary="@string/tap_to_take_pictures_summary" />
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_ShowPalm" android:key="@string/key_palm_detection" android:summary="@string/show_palm_summary" />
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_HRM_shutter" android:key="@string/key_hrm_shutter" android:summary="@string/hrm_shutter_summary" />
+</androidx.preference.PreferenceScreen>

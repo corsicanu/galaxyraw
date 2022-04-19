@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/$avd_ico_quick_setting_focus_center_multi__0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <target android:name="_R_G_L_0_G_D_2_P_0_G_1_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__1" />
+    <target android:name="_R_G_L_0_G_D_2_P_0_G_1_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__4" />
+    <target android:name="_R_G_L_0_G_D_2_P_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__9" />
+    <target android:name="_R_G_L_0_G_D_3_P_0_G_1_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__11" />
+    <target android:name="_R_G_L_0_G_D_3_P_0_G_1_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__14" />
+    <target android:name="_R_G_L_0_G_D_3_P_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__19" />
+    <target android:name="_R_G_L_0_G_D_4_P_0_G_1_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__21" />
+    <target android:name="_R_G_L_0_G_D_4_P_0_G_1_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__24" />
+    <target android:name="_R_G_L_0_G_D_4_P_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__29" />
+    <target android:name="_R_G_L_0_G_D_5_P_0_G_1_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__31" />
+    <target android:name="_R_G_L_0_G_D_5_P_0_G_1_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__34" />
+    <target android:name="_R_G_L_0_G_D_5_P_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__39" />
+    <target android:name="_R_G_L_0_G_D_6_P_0_G_1_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__41" />
+    <target android:name="_R_G_L_0_G_D_6_P_0_G_1_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__44" />
+    <target android:name="_R_G_L_0_G_D_6_P_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__49" />
+    <target android:name="_R_G_L_0_G_D_7_P_0_G_1_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__51" />
+    <target android:name="_R_G_L_0_G_D_7_P_0_G_1_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__54" />
+    <target android:name="_R_G_L_0_G_D_7_P_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__59" />
+    <target android:name="_R_G_L_0_G_D_8_P_0_G_1_T_1" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__61" />
+    <target android:name="_R_G_L_0_G_D_8_P_0_G_1_T_1" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__64" />
+    <target android:name="_R_G_L_0_G_D_8_P_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__69" />
+    <target android:name="_R_G_L_0_G_D_9_P_0_G_1_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__71" />
+    <target android:name="_R_G_L_0_G_D_9_P_0_G_1_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__74" />
+    <target android:name="_R_G_L_0_G_D_9_P_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__79" />
+    <target android:name="_R_G_L_0_G_D_10_P_0_G_1_T_1" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__81" />
+    <target android:name="_R_G_L_0_G_D_10_P_0_G_1_T_1" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__84" />
+    <target android:name="_R_G_L_0_G_D_10_P_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__89" />
+    <target android:name="_R_G_L_0_G_D_11_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__91" />
+    <target android:name="_R_G_L_0_G_D_12_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__96" />
+    <target android:name="_R_G_L_0_G_D_12_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__99" />
+    <target android:name="_R_G_L_0_G_D_13_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__104" />
+    <target android:name="_R_G_L_0_G_D_13_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__107" />
+    <target android:name="_R_G_L_0_G_D_14_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__112" />
+    <target android:name="_R_G_L_0_G_D_14_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__115" />
+    <target android:name="_R_G_L_0_G_D_15_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__120" />
+    <target android:name="_R_G_L_0_G_D_15_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__123" />
+    <target android:name="_R_G_L_0_G_D_16_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__128" />
+    <target android:name="_R_G_L_0_G_D_16_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__131" />
+    <target android:name="_R_G_L_0_G_D_17_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__136" />
+    <target android:name="_R_G_L_0_G_D_17_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__139" />
+    <target android:name="_R_G_L_0_G_D_18_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__144" />
+    <target android:name="_R_G_L_0_G_D_18_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__147" />
+    <target android:name="_R_G_L_0_G_D_19_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__152" />
+    <target android:name="_R_G_L_0_G_D_19_P_0_G_0_T_0" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__155" />
+    <target android:name="time_group" android:animation="@drawable/$avd_ico_quick_setting_focus_center_multi__160" />
+</animated-vector>

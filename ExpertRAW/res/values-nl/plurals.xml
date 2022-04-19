@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d gezichten</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d gezicht</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">Kan niet meer dan %d aangepaste filters maken.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kan niet meer dan %d aangepast filter maken.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Voorkom oververhitting en neem niet meer dan %1$d minuten van %2$s op.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Voorkom oververhitting en neem niet meer dan %1$d minuut van %2$s op.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="videos"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_Camcorder_HEVC" android:key="@string/key_hevc" android:summary="@string/camcorder_front_HEVC_summary" />
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_Camcorder_HDR10" android:key="@string/key_hdr10_recording" android:summary="@string/camcorder_HDR10_summary" />
+    <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_Camcorder_Zoom_In_Mic" android:key="@string/key_zoom_in_mic" android:summary="@string/camcorder_zoom_in_mic_summary" />
+</PreferenceScreen>

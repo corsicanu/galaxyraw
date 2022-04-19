@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_detected">
+        <item quantity="other">%d yüz</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d yüz</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="my_filter_reached_max_count">
+        <item quantity="other">En fazla %d özel filtre oluşturulabilir.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">En fazla %d özel filtre oluşturulabilir.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="toast_torch_high_temperature_warning">
+        <item quantity="other">Aşırı ısınmayı önlemek için en fazla %1$d dakika %2$s kaydı yapın.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aşırı ısınmayı önlemek için en fazla %1$d dakika %2$s kaydı yapın.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

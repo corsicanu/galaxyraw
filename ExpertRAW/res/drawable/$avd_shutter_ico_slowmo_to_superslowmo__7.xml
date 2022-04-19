@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$avd_shutter_ico_slowmo_to_superslowmo__8" android:duration="50" android:startOffset="0" android:valueFrom="#fff1b9ba" android:valueTo="#fff1b9ba" android:valueType="colorType" android:propertyName="fillColor" />
+    <objectAnimator android:interpolator="@drawable/$avd_shutter_ico_slowmo_to_superslowmo__9" android:duration="150" android:startOffset="50" android:valueFrom="#fff1b9ba" android:valueTo="#ffea8d90" android:valueType="colorType" android:propertyName="fillColor" />
+</set>

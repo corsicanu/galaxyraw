@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/preview_overlay_ae_af_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/object_tracking_view" android:background="@drawable/camera_af_tracking" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@null" />
+    <ImageView android:id="@id/focus_guide" android:visibility="invisible" android:layout_width="@dimen/ae_af_focus_guide_size" android:layout_height="@dimen/ae_af_focus_guide_size" android:contentDescription="@null" />
+    <RelativeLayout android:id="@id/divide_ae_lock_group" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/divide_ae_lock_btn" android:background="@drawable/ic_afae_ev_btn_lock" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/divide_ae_lock_text" android:layout_centerInParent="true" />
+        <ImageView android:id="@id/divide_ae_lock_circle" android:background="@drawable/ic_afae_circle_lock" android:layout_width="@dimen/ae_af_circle_size" android:layout_height="@dimen/ae_af_circle_size" android:layout_marginBottom="@dimen/ae_af_lock_text_height" android:layout_below="@id/divide_ae_lock_text" android:layout_centerHorizontal="true" android:contentDescription="@null" />
+        <TextView android:textSize="@dimen/ae_af_lock_text_size" android:textColor="@color/divide_afae_lock_color" android:gravity="center" android:id="@id/divide_ae_lock_text" android:layout_width="wrap_content" android:layout_height="@dimen/ae_af_lock_text_height" android:text="@string/ae" android:layout_centerHorizontal="true" style="@style/RobotoRegular" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/divide_ae_af_lock_group" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/divide_af_ae_lock_btn" android:background="@drawable/ic_afae_ev_btn_lock" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/divide_ae_af_lock_text" android:layout_centerInParent="true" />
+        <ImageView android:id="@id/divide_ae_af_lock_circle" android:background="@drawable/ic_afae_circle_lock" android:layout_width="@dimen/ae_af_circle_size" android:layout_height="@dimen/ae_af_circle_size" android:layout_marginBottom="@dimen/ae_af_lock_text_height" android:layout_below="@id/divide_ae_af_lock_text" android:layout_centerHorizontal="true" android:contentDescription="@null" />
+        <TextView android:textSize="@dimen/ae_af_lock_text_size" android:textColor="@color/divide_afae_lock_color" android:gravity="center" android:id="@id/divide_ae_af_lock_text" android:layout_width="wrap_content" android:layout_height="@dimen/ae_af_lock_text_height" android:text="@string/af_ae" android:layout_centerHorizontal="true" style="@style/RobotoRegular" />
+    </RelativeLayout>
+    <com.samsung.android.app.galaxyraw.layer.previewoverlay.aeaf.AeAfGroup android:id="@id/ae_af_group" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</RelativeLayout>

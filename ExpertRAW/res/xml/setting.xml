@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:key="@string/dep_intelligence">
+        <com.samsung.android.app.galaxyraw.setting.SwitchListPreference android:persistent="false" android:title="@string/Title_SceneOptimizer" android:key="@string/key_scene_optimizer" android:summary="@string/scene_optimizer_summary" android:dependency="@string/dep_intelligence" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_SceneOptimizer" android:key="@string/key_scene_optimizer" android:summary="@string/scene_optimizer_summary" android:dependency="@string/dep_intelligence" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_composition_guide" android:key="@string/key_composition_guide" android:summary="@string/composition_guide_summary" android:dependency="@string/dep_intelligence" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_QRCode" android:key="@string/key_qr_code_detection" android:dependency="@string/dep_intelligence" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/Title_pictures" android:key="@string/dep_pictures">
+        <com.samsung.android.app.galaxyraw.setting.SpinnerPreference android:persistent="false" android:entries="@array/hold_camera_button_to_list" android:title="@string/Title_SwipeShutterTo" android:key="@string/key_hold_camera_button_to" android:dependency="@string/dep_pictures" android:entryValues="@array/hold_camera_button_to_value" />
+        <com.samsung.android.app.galaxyraw.setting.SettingPreference android:title="@string/Title_SaveOptions" android:key="@string/key_save_options" android:dependency="@string/dep_pictures" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_Raw_File" android:key="@string/key_picture_format" android:summary="@string/picture_format_summary" android:dependency="@string/dep_pictures" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_HighEfficiencyRaw" android:key="@string/key_dng_compression" android:summary="@string/high_efficiency_raw_summary" android:dependency="@string/dep_useful_features" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/Title_selfies" android:key="@string/dep_selfie">
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_smart_selfie_angle" android:key="@string/key_smart_selfie_angle" android:summary="@string/smart_selfie_angle_description" android:dependency="@string/dep_selfie" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_PicturesAsPreviewed" android:key="@string/key_save_as_flipped" android:summary="@string/pictures_as_previewed_summary" android:dependency="@string/dep_selfie" />
+        <com.samsung.android.app.galaxyraw.setting.SettingPreference android:id="@id/selfie_tone" android:title="@string/Title_Selfie_Tone" android:key="@string/key_selfie_tone" android:dependency="@string/dep_selfie" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/Title_videos" android:key="@string/dep_videos">
+        <com.samsung.android.app.galaxyraw.setting.SettingPreference android:title="@string/Title_Advanced_Recording_Options" android:key="@string/key_advanced_recording_options" android:dependency="@string/dep_videos" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_VideoStabilisation" android:key="@string/key_video_stabilisation" android:dependency="@string/dep_videos" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/Title_useful_features" android:key="@string/dep_useful_features">
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_AutoHDR" android:key="@string/key_hdr_enabled" android:summary="@string/hdr_apply_setting_description" android:dependency="@string/dep_useful_features" />
+        <com.samsung.android.app.galaxyraw.setting.SwitchListPreference android:persistent="false" android:title="@string/Title_HDR" android:key="@string/key_hdr_enabled" android:dependency="@string/dep_useful_features" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_LocationTag" android:key="@string/key_location_tag" android:summary="@string/location_tag_summary" android:dependency="@string/dep_useful_features" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_TrackingAF" android:key="@string/key_tracking_af" android:summary="@string/tracking_af_summary" android:dependency="@string/dep_useful_features" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_Guideline" android:key="@string/key_guide_line" android:dependency="@string/dep_useful_features" />
+        <com.samsung.android.app.galaxyraw.setting.SettingPreference android:title="@string/Title_ShootingMethod" android:key="@string/key_shooting_method" android:dependency="@string/dep_useful_features" />
+        <com.samsung.android.app.galaxyraw.setting.SettingPreference android:title="@string/Title_SettingsToKeep" android:key="@string/key_settings_to_keep" android:dependency="@string/dep_useful_features" />
+        <com.samsung.android.app.galaxyraw.setting.SpinnerPreference android:persistent="false" android:entries="@array/storage_list" android:title="@string/Title_Storage" android:key="@string/key_storage" android:dependency="@string/dep_useful_features" android:entryValues="@array/storage_value" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_QuickShot" android:key="@string/key_quick_launch" android:dependency="@string/dep_useful_features" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_Review" android:key="@string/key_review" android:dependency="@string/dep_useful_features" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_ShutterSound" android:key="@string/key_shutter_sound" android:dependency="@string/dep_useful_features" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_TouchVibrations" android:key="@string/key_touch_vibrations" android:dependency="@string/dep_useful_features" />
+        <com.samsung.android.app.galaxyraw.setting.CameraSwitchPreference android:persistent="false" android:title="@string/Title_Viewmode" android:key="@string/key_view_mode" android:summary="@string/viewmode_tag_summary" android:dependency="@string/dep_useful_features" />
+        <com.samsung.android.app.galaxyraw.setting.CustomizationServicePreference android:persistent="false" android:title="@string/Title_Customization_Service" android:key="@string/key_customization_service" android:summary="@string/customization_service_summary" android:dependency="@string/dep_useful_features" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/Title_privacy" android:key="@string/dep_privacy">
+        <com.samsung.android.app.galaxyraw.setting.SettingPreference android:title="@string/Title_Permissions" android:key="@string/key_permissions" android:dependency="@string/dep_privacy" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="" android:key="@string/dep_etc">
+        <com.samsung.android.app.galaxyraw.setting.SettingPreference android:id="@id/reset_settings" android:title="@string/reset_title" android:key="@string/key_reset_settings" android:dependency="@string/dep_etc" />
+        <com.samsung.android.app.galaxyraw.setting.SettingPreference android:id="@id/how_to_use" android:title="@string/Title_how_to_use" android:key="@string/key_how_to_use" android:dependency="@string/dep_etc" />
+        <com.samsung.android.app.galaxyraw.setting.SettingPreference android:id="@id/contact_us" android:title="@string/Title_Contact_us" android:key="@string/key_contact_us" android:dependency="@string/dep_etc" />
+        <com.samsung.android.app.galaxyraw.setting.SettingPreference android:id="@id/about_camera" android:key="@string/key_about_camera" android:dependency="@string/dep_etc" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="" android:key="@string/dep_empty" />
+</PreferenceScreen>
