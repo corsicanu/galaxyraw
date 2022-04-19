@@ -25,12 +25,10 @@
     <local name="SUPPORT_PRO_RESET" value="true" />
     <local name="SUPPORT_PRO_AE_PRIORITY_MODE" value="true" />
     <local name="SUPPORT_EXPAND_SHUTTER_SPEED" value="true" />
+    <local name="SUPPORT_MULTI_AF" value="false" />
 
     <!-- post processing features -->
     <local name="SUPPORT_POST_PICTURE_PROCESSING" value="true" />
-
-    <!--TARGET PLATFORM VERSION-->
-    <local name="TARGET_PLATFORM_VERSION" value="12.01.01" />
 
     <!--Guide Line-->
     <local name="TOP_GUIDE_LINE" value="0.111" />

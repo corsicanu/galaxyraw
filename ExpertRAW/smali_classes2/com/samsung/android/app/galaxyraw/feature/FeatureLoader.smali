@@ -14,7 +14,7 @@
 # static fields
 .field private static final FEATURE_XML:Ljava/lang/String; = "galaxyraw-feature.xml"
 
-.field private static final PRODUCT_NAME_KEY:Ljava/lang/String; = "ro.product.product.name"
+.field private static final PRODUCT_NAME_KEY:Ljava/lang/String; = "ro.product.device"
 
 .field private static final TAG:Ljava/lang/String; = "FeatureLoader"
 

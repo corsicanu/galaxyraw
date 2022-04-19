@@ -41,6 +41,8 @@
 
 .field public static final enum R0S:Lcom/samsung/android/app/galaxyraw/feature/FeatureLoader$Product;
 
+.field public static final enum BEYOND2:Lcom/samsung/android/app/galaxyraw/feature/FeatureLoader$Product;
+
 
 # instance fields
 .field private mPath:Ljava/lang/String;
